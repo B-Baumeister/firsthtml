@@ -1,0 +1,7 @@
+{
+  "workbench.colorTheme": "Default Light Modern",
+  "workbench.tree.renderIndentGuides": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true
+}
